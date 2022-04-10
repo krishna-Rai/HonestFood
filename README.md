@@ -2,9 +2,9 @@
 
 Instructions to start the backend
 
-  1.cd backend
-  2.npm install
-  3.node app.js
+1.cd backend <br>
+2.npm install <br>
+3.node app.js
  
 Instructions to start the frontend
 
